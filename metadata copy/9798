@@ -1,0 +1,59 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/9798.png",
+    "tokenId": "9798",
+    "name": "dadmfers 9798",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "regular eyes"
+        },
+        {
+            "trait_type": "long hair",
+            "value": "long hair black"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "blue headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "cig white"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "collared shirt green"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "blue"
+        },
+        {
+            "trait_type": "door",
+            "value": "orange"
+        },
+        {
+            "trait_type": "message",
+            "value": "dads gotta know!"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "fathers disappointment"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "9798"
+        }
+    ]
+}

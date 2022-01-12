@@ -1,0 +1,59 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/5407.png",
+    "tokenId": "5407",
+    "name": "dadmfers 5407",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "regular eyes"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "pink headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "cig black"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "cap monochrome"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "hoodie down blue"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "red"
+        },
+        {
+            "trait_type": "door",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "message",
+            "value": "dads gotta know!"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "poseidons pokey stick"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "5407"
+        }
+    ]
+}

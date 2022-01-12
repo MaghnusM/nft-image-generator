@@ -1,0 +1,59 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/2216.png",
+    "tokenId": "2216",
+    "name": "dadmfers 2216",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "shades"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "black headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "cig black"
+        },
+        {
+            "trait_type": "beard",
+            "value": "full beard"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "collared shirt blue"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "blue"
+        },
+        {
+            "trait_type": "door",
+            "value": "green"
+        },
+        {
+            "trait_type": "message",
+            "value": "dads gotta know!"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "fathers disappointment"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "2216"
+        }
+    ]
+}

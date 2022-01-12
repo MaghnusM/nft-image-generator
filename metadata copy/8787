@@ -1,0 +1,51 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/8787.png",
+    "tokenId": "8787",
+    "name": "dadmfers 8787",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "3d glasses"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "white headphones"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "knit baltimore"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "door",
+            "value": "green"
+        },
+        {
+            "trait_type": "message",
+            "value": "dads gotta know!"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "og cake"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "8787"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/3.png",
+    "tokenId": "3",
+    "name": "dadmfers 3",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "zombie dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "zombie eyes"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "beanie"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "white headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "cig black"
+        },
+        {
+            "trait_type": "beard",
+            "value": "full beard"
+        },
+        {
+            "trait_type": "background",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "door",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "message",
+            "value": "back from the ded"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "fathers disappointment"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "3"
+        }
+    ]
+}

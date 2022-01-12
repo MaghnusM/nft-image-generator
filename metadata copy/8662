@@ -1,0 +1,55 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/8662.png",
+    "tokenId": "8662",
+    "name": "dadmfers 8662",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "ape dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "regular eyes"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "black headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "pipe"
+        },
+        {
+            "trait_type": "background",
+            "value": "tree"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "collared shirt white"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "tree"
+        },
+        {
+            "trait_type": "door",
+            "value": "tree"
+        },
+        {
+            "trait_type": "message",
+            "value": "sus talk"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "fathers disappointment"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "8662"
+        }
+    ]
+}

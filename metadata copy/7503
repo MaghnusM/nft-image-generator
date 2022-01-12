@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/7503.png",
+    "tokenId": "7503",
+    "name": "dadmfers 7503",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "gutter dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "7503"
+        }
+    ]
+}

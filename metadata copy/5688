@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/5688.png",
+    "tokenId": "5688",
+    "name": "dadmfers 5688",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "punk dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "5688"
+        }
+    ]
+}

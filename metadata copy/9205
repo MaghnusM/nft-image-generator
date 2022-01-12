@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/9205.png",
+    "tokenId": "9205",
+    "name": "dadmfers 9205",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "peaceful dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "9205"
+        }
+    ]
+}

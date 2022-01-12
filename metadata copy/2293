@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/2293.png",
+    "tokenId": "2293",
+    "name": "dadmfers 2293",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "loot'n dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "2293"
+        }
+    ]
+}

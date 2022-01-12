@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/7456.png",
+    "tokenId": "7456",
+    "name": "dadmfers 7456",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "gang dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "7456"
+        }
+    ]
+}

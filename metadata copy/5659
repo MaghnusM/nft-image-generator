@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/5659.png",
+    "tokenId": "5659",
+    "name": "dadmfers 5659",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "nakamoto dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "5659"
+        }
+    ]
+}

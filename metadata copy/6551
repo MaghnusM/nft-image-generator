@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/6551.png",
+    "tokenId": "6551",
+    "name": "dadmfers 6551",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "xdadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "6551"
+        }
+    ]
+}

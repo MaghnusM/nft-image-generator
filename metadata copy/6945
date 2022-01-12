@@ -1,0 +1,59 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/6945.png",
+    "tokenId": "6945",
+    "name": "dadmfers 6945",
+    "attributes": [
+        {
+            "trait_type": "type",
+            "value": "zombie dadmfer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "zombie eyes"
+        },
+        {
+            "trait_type": "long hair",
+            "value": "long hair black"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "green headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "cig black"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "knit las vegas"
+        },
+        {
+            "trait_type": "background",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "base",
+            "value": "skeleton"
+        },
+        {
+            "trait_type": "canvas",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "door",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "message",
+            "value": "back from the ded"
+        },
+        {
+            "trait_type": "right hand",
+            "value": "og cake"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "6945"
+        }
+    ]
+}

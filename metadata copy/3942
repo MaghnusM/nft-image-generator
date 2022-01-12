@@ -1,0 +1,15 @@
+{
+    "image": "ipfs://QmYMkpgLdfdwNsN4gaUbLUhNkkwkgUCJNMp8yKHjdaiT4D/3942.png",
+    "tokenId": "3942",
+    "name": "dadmfers 3942",
+    "attributes": [
+        {
+            "trait_type": "1|1",
+            "value": "glyph dadmfer"
+        },
+        {
+            "trait_type": "tokenId",
+            "value": "3942"
+        }
+    ]
+}
